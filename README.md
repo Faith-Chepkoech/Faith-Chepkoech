@@ -23,7 +23,8 @@
 <p align="center">
   <code><img title="CSS3" height="25" src="https://img.icons8.com/color/512/css3.png"></code>
   <code><img title="Javascript" height="25" src="https://img.icons8.com/color/512/javascript.png"></code>
-  <code><img title="Ruby on Rails" height="25" src="https://img.icons8.com/windows/512/ruby-on-rails.png"></code>
+  <code><img title="Network Engineering" height="25" src="https://img.icons8.com/ios-filled/50/network.png"></code>
+
   <code><img title="Java" height="25" src="https://img.icons8.com/?size=96&id=13679&format=png"></code>
   <code><img title="MySQL" height="25" src="https://img.icons8.com/fluency/512/mysql-logo.png"></code>
   <code><img title="Git" height="25" src="https://img.icons8.com/color/512/git.png"></code>
