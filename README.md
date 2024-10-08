@@ -19,6 +19,7 @@
   <br>
   ⚡Fun fact: Did you know that the first message sent online was “LO”? The system crashed before the word "LOGIN" could be fully transmitted! 😄
 </p>
+<br>
 
 <p align="center">
   <code><img title="CSS3" height="25" src="https://img.icons8.com/color/512/css3.png"></code>
