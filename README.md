@@ -15,8 +15,7 @@
   💻 I thrive on writing clean, efficient code and creating web applications with intuitive, user-friendly interfaces. Whether it’s front-end design or back-end logic, I enjoy every aspect of the development process. 😊
   <br>
   📚 I’m sharpening my skills in Frontend and Backend development, focusing on mastering JavaScript. I’m also diving into network engineering to enhance my technical expertise.
-  <br>
-  👯 I’m learning JavaScript and diving into network engineering.
+  
   <br>
   ⚡Fun fact: Did you know that the first message sent online was “LO”? The system crashed before the word "LOGIN" could be fully transmitted! 😄
 </p>
