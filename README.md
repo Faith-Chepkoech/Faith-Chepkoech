@@ -8,7 +8,6 @@
 ### About Me:
 
 <p align="center">
- ### About Me: <br>
 - 💻 Full Stack Web Developer<br>
 - 📚 Mastering JavaScript and diving into Network Engineering <br>
 - 🌍 Based in Kiambu, Kenya<br>
