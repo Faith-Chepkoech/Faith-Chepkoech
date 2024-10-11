@@ -8,7 +8,10 @@
 ### About Me:
 
 <p align="center">
-  Hi, I’m Faith Chepkoech, a passionate Full Stack Web Developer from Kiambu, Kenya. I specialize in building dynamic, responsive web applications that deliver exceptional user experiences
+ ### About Me:
+- 💻 Full Stack Web Developer
+- 📚 Mastering JavaScript and diving into Network Engineering
+- 🌍 Based in Kiambu, Kenya
   <br>
   <br>
  
