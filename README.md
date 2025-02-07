@@ -10,7 +10,7 @@
 <p align="center">
 - 💻 Full Stack Web Developer<br>
 - 📚 Mastering JavaScript and diving into Network Engineering <br>
-- 🌍 Based in Kiambu, Kenya<br>
+- 🌍 Based in Nakuru, Kenya<br>
   <br>
   <br>
  
